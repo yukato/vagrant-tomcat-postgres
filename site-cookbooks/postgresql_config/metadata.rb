@@ -1,0 +1,7 @@
+name             'postgresql_config'
+maintainer       'yukato'
+maintainer_email 'm.yukato@gmail.com'
+license          'All rights reserved'
+description      'Configures postgres'
+long_description 'Configures postgres'
+version          '0.1.0'
